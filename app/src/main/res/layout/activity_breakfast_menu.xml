@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:xmls="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background"
+    tools:context=".BreakfastMenuActivity">
+
+    <TextView
+        android:id="@+id/txtbreakfastMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/breakfastMenu"
+        android:textSize="40sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:textColorHighlight="@android:color/black"
+        android:shadowColor="@android:color/black"
+        android:shadowDx="8.8"
+        android:shadowDy="8.6"
+        android:shadowRadius="8.6"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

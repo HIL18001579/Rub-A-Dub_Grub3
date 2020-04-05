@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rub-A-Dub Grub</string>
+    <string name="btnEnter">Get Grub</string>
+    <string name="slogan">It\'s Rub-A-Dub good Grub</string>
+    <string name="todo">TODO</string>
+    <string name="selection">Selection</string>
+    <string name="loading">Loading…</string>
+    <string name="lunchMenu">Lunch Menu</string>
+    <string name="dinnerMenu">Dinner Menu</string>
+    <string name="breakfastMenu">Breakfast Menu</string>
+    <string name="drinksMenu">Drinks Menu</string>
+</resources>

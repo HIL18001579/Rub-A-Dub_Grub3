@@ -12,4 +12,4 @@ I hope it helps you out.
 
 ### API - Firebase
 
-(the gradle settings may be outdated).
+(the gradle settings may be outdated and in need of an update).

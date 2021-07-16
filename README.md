@@ -6,8 +6,10 @@ to the course leader's database was not completed.
 
 I hope it helps you out.
 
-## Language - Java
+### Language - Java
 
-## IDE - Android Studio
+### IDE - Android Studio
+
+### API - Firebase
 
 (the gradle settings may be outdated).

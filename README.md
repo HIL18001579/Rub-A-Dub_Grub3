@@ -6,4 +6,8 @@ to the course leader's database was not completed.
 
 I hope it helps you out.
 
+## Language - Java
+
+## IDE - Android Studio
+
 (the gradle settings may be outdated).
